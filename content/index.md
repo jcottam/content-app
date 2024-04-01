@@ -29,7 +29,6 @@ external: true
 href: https://www.yahoo.com
 icon: simple-icons:stackblitz
 ---
-
 Play online on Stackblitz
 ::
 
