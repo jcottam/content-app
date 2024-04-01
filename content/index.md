@@ -11,7 +11,7 @@ navigation:
 This is too easy
 ::
 
-A lightweight Nuxt [theme to build](https://misfitsandmachines.com/) a Markdown driven website, based on [Nuxt Content](https://content.nuxt.com), [TailwindCSS](https://tailwindcss.com) and [Iconify](https://iconify.design) ✨
+A lightweight Nuxt [theme to build](https://misfitsandmachines.com/) a Markdown **driven website, based on** [Nuxt Content](https://content.nuxt.com), [TailwindCSS](https://tailwindcss.com) and [Iconify](https://iconify.design) ✨
 
 ## Features
 
@@ -32,13 +32,13 @@ A lightweight Nuxt [theme to build](https://misfitsandmachines.com/) a Markdown 
 ## ::button-link
 
 external: true
-href: https://stackblitz.com/github/Atinux/content-wind/tree/main/.demo?file=content%2F1.index.md
-icon: simple-icons:stackblitz
+href: <https://stackblitz.com/github/Atinux/content-wind/tree/main/.demo?file=content%2F1.index.md>
+icon: simple-icons\:stackblitz
 
 ---
 
 Play online on Stackblitz
-::
+\::
 
 Open a terminal and run the following command:
 
