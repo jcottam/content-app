@@ -3,15 +3,9 @@ navigation:
   title: Home
 ---
 
-# Content Wind - beautiful
+# Content Wind
 
-## Heading 2
-
-::button-link{external="\_blank" href="https://www.yahoo.com"}
-This is too easy
-::
-
-A lightweight Nuxt [theme to build](https://misfitsandmachines.com/) a Markdown **driven website, based on** [Nuxt Content](https://content.nuxt.com), [TailwindCSS](https://tailwindcss.com) and [Iconify](https://iconify.design) ✨
+A lightweight Nuxt theme to build a Markdown driven website, based on [Nuxt Content](https://content.nuxt.com), [TailwindCSS](https://tailwindcss.com) and [Iconify](https://iconify.design) ✨
 
 ## Features
 
@@ -29,16 +23,15 @@ A lightweight Nuxt [theme to build](https://misfitsandmachines.com/) a Markdown 
 
 ## Setup
 
-## ::button-link
-
+::button-link
+---
 external: true
-href: <https://stackblitz.com/github/Atinux/content-wind/tree/main/.demo?file=content%2F1.index.md>
-icon: simple-icons\:stackblitz
-
+href: https://www.yahoo.com
+icon: simple-icons:stackblitz
 ---
 
 Play online on Stackblitz
-\::
+::
 
 Open a terminal and run the following command:
 
@@ -182,6 +175,8 @@ See the `<MarkdownBlock>` component in [`components/content/MarkdownBlock.vue`](
 By leveraging the [`<ContentSlot>`](https://content.nuxt.com/components/content-slot) component from Nuxt Content, you can use both slots and props in Markdown thanks to the [MDC syntax](https://content.nuxt.com/usage/markdown).
 
 ## Deployment
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FAtinux%2Fcontent-wind-template) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Atinux/content-wind-template)
 
 ### Static Hosting
 
