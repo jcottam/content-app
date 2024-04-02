@@ -23,13 +23,12 @@ A lightweight Nuxt theme to build a Markdown driven website, based on [Nuxt Cont
 
 ## Setup
 
-::button-link
----
-external: true
-href: https://www.yahoo.com
-icon: simple-icons:stackblitz
----
-Play online on Stackblitz
+::the-title
+What up!
+::
+
+::card{type="warning"}
+The content of the card
 ::
 
 Open a terminal and run the following command:
