@@ -1,8 +1,9 @@
 export default defineAppConfig({
+  cover: "/cover.jpg",
   socials: {
-    twitter: "",
-    github: "",
-    mastodon: "",
+    twitter: "Atinux",
+    github: "Atinux/content-wind",
+    mastodon: "@atinux@webtoo.ls",
   },
   nuxtIcon: {
     aliases: {
